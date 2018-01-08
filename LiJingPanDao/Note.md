@@ -24,3 +24,8 @@
 
 https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers?language=zh-cn
 
+
+## CHAGNELOG
+
+- 20171208 HYL
+
