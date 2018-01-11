@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](Readme.md)
 * [自序](ch0/preface.md)
     * [个人小传](ch0/assignment.md)
 * [第一讲：写作为什么难](ch1/README.md)
