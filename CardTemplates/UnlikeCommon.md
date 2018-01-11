@@ -19,4 +19,4 @@
 * 启示：它给自己带来的行动启发
 
 ## CHANGELOG
-- 20180111 Copy from (Tukui)[https://github.com/Mina-yy/read.tukui.com/tree/master/cardsTemplate](many thanks)
+- 20180111 Copy from [Tukui](https://github.com/Mina-yy/read.tukui.com/tree/master/cardsTemplate),many thanks
