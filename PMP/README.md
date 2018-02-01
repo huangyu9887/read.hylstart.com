@@ -3,45 +3,45 @@
 
 ## Education
 
-### Course or Training
+### 1 Course or Training
 
 - In person or virtual classes,formal education
 
-### Organization Meetings
+### 2 Organization Meetings
 
 - Chapter,Company or Professional meetings limited to 2 PDUs
 
-### Online or Digital Media
+### 3 Online or Digital Media
 
 - Pre-recorded Webinars,Podcasts,digital recordings
 
-### Read
+### 4 Read
 
 - Books / Articles / Blogs
  
-### Informal Learning
+### 5 Informal Learning
 
 - Structured discussions with other professionals or mentors 
 
 ## Giving Back
 
-### Work as Practitioner
+### 1 Work as Practitioner
 
 - Working in a profession related to your certification
 
-### Create content
+### 2 Create content
 
 - Authoring books or articles,creating webinars
 
-### Give a Presentation
+### 3 Give a Presentation
 
 - Preparing for and speaking or presenting
 
-### Share Knowledge
+### 4 Share Knowledge
 
 - Serving as a moderator,SME or mentor
 
-### Volunteer
+### 5 Volunteer
 
 - Volunteering without compensation
 
