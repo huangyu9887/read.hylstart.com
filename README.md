@@ -111,7 +111,7 @@
 
 # 参考文献
 
-- [卡片十二问]（https://www.yangzhiping.com/psy/happy-new-year-faq3.html）
+- [卡片十二问](https://www.yangzhiping.com/psy/happy-new-year-faq3.html)
 
 # CHANGELOG
 - 20190403 sorting
