@@ -108,6 +108,7 @@
 # 推荐书籍
 
 - [奇特的一生](https://book.douban.com/subject/1115353/)
+- [重塑大脑，重塑人生](https://book.douban.com/subject/26296233/)
 
 
 
