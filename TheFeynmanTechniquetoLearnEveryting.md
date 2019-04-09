@@ -1,7 +1,10 @@
 # 摘要
 
 
-
+- Choose a Concept
+- Teach it to a Toddler
+- Identify Gaps and Go Back to The Source Material
+- Review and Simplify (optional)
 
 
 
