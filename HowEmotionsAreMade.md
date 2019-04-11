@@ -9,6 +9,7 @@
 |3|概念|
 |4|内感受|
 |5|感知|
+|6|身体预算|
 
 
 
@@ -48,7 +49,14 @@
 
 
 
+# timelog
 
+- 20190411 21:21 
+
+
+# reference
+* [Videos featuring Lisa Feldman Barrett | Lisa Feldman Barrett](https://lisafeldmanbarrett.com/multimedia/)
 
 # Changelog
+- 20190411 add
 - 20190408 init
