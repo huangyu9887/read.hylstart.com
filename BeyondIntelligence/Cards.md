@@ -57,7 +57,7 @@
 
 ![image](https://user-images.githubusercontent.com/24952118/56334582-7888d700-61cb-11e9-8095-e874b4012186.png)
 
-
+- 认知吝啬鬼的工具：生动、出众与可得性
 
 # Changelog
 
