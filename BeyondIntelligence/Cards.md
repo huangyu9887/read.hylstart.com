@@ -47,7 +47,10 @@
 
  # 任意卡
  
+ ## 认知偏差
  
+ 
+![image](https://user-images.githubusercontent.com/24952118/56332913-b46c6e00-61c4-11e9-99f2-200c89c1333f.png)
 
 
 
