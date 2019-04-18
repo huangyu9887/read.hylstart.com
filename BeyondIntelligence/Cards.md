@@ -55,9 +55,11 @@
 - 不考虑所有可能性 VS 应对：采用完全析取原理
 - 属性替换(简单的问题取代难的问题）
 
+![image](https://user-images.githubusercontent.com/24952118/56334582-7888d700-61cb-11e9-8095-e874b4012186.png)
 
 
 
 # Changelog
 
+- 20190418 add
 - 20190301 init
