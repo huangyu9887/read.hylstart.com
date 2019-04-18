@@ -53,7 +53,7 @@
 ![image](https://user-images.githubusercontent.com/24952118/56332913-b46c6e00-61c4-11e9-99f2-200c89c1333f.png)
 
 - 不考虑所有可能性 VS 应对：采用完全析取原理
-- 属性替换  
+- 属性替换(简单的问题取代难的问题）
 
 
 
