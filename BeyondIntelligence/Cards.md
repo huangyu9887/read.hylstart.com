@@ -59,6 +59,9 @@
 
 - 认知吝啬鬼的工具：生动、出众与可得性
 
+
+![image](https://user-images.githubusercontent.com/24952118/56334830-8854eb00-61cc-11e9-838b-beb95123926b.png)
+
 # Changelog
 
 - 20190418 add
