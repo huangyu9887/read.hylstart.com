@@ -66,13 +66,15 @@
            - 心理学的基础部分——我称之为误判心理学——是极其重要的知识。它包括了大约20个小原则。
            - 我现在使用一种双轨分析。从个人的角度来讲，我已经养成了使用一种双轨分析的习惯。首先，理性地看，哪些因素真正控制了涉及的利益？其次，当大              脑处于潜意识状态时，会自动形成哪些潜意识因素——这些潜意识因素总的来讲有用但（在具体情况下）却又常常失灵？
        
-        
+        - 什么思维模型不可靠？
+          - 不那么可靠的人类智慧——微观经济学
  
  
  
  
  ## 参考文献
  - https://www.douban.com/note/538254895/
+ - https://github.com/huangyu9887/CharlieMungerTalk/blob/master/Speeches/1994-A-Lesson-on-Elementary-Worldly-Wisdom-As-It-Relates-To-Investment-Management-Business-zh.md
  
  ## Changelog
  
